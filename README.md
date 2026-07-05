@@ -64,6 +64,7 @@
 - [Kalodata](https://www.kalodata.com/) — `Freemium` 专做 **TikTok Shop** 数据：爆品榜、带货达人、直播间数据。做 TikTok 电商基本绕不开它。
 - [EchoTik](https://echotik.live/) — `Freemium` 同样是 TikTok 选品/达人数据，有免费额度可以先白嫖试水，和 Kalodata 可以对照着看。
 - [VOC AI（Shulex）](https://www.voc.ai/) — `Freemium` 我私心最推的一个：把竞品成百上千条 review 用 AI 拆成「好评点/差评点/未满足需求」，**选品做差异化、改产品全靠它**。
+- [Perplexity](https://www.perplexity.ai/) — `Freemium` AI 搜索 / research 工具，适合快速查品类趋势、竞品资料和海外媒体观点；结论要点开来源核对，别直接当真理。
 - [Exploding Topics](https://explodingtopics.com/) — `Freemium` 看早期趋势词、还没火起来的蓝海赛道。英文，适合做品牌站找方向。
 - [Google Trends](https://trends.google.com/) — `免费` 最朴素也最该用的，验证需求的季节性、地域分布、是不是伪需求。免费的东西别嫌寒酸。
 
@@ -101,7 +102,9 @@
 - [Runway](https://runwayml.com/) — `付费` AI 视频老牌，运镜和可控性强，专业感更足，价格也更高。
 - [HeyGen](https://www.heygen.com/) — `Freemium` AI 数字人口播，一个脚本出多语言带货视频，做 TikTok/独立站 VSL 很省事。
 - [Creatify](https://creatify.ai/) — `付费` 专做电商 AI 广告视频，丢产品链接自动出多版 UGC 风素材，批量测款效率高。
+- [AdCreative.ai](https://www.adcreative.ai/) — `付费` 批量生成广告图、广告文案和产品视频，还能给素材打分，适合 Meta / Google 投流前快速出变体。
 - [Arcads](https://www.arcads.ai/) — `付费` 主打「真人 UGC 口播感」的 AI 演员广告，欧美投流卖家用得多。
+- [ElevenLabs](https://elevenlabs.io/) — `Freemium` AI 配音 / 多语言 voiceover 很强，做海外口播、产品讲解和本地化视频时省录音成本。
 - [Topview AI](https://www.topview.ai/) — `Freemium` 产品链接一键转带货短视频，和 Creatify 是同类，可以对比着白嫖试。
 
 ---
@@ -112,6 +115,7 @@
 
 - [Tidio](https://www.tidio.com/) — `Freemium` 中小独立站在线客服 + AI bot，有免费版，Shopify/WooCommerce 装上就能用，性价比高。
 - [Gorgias](https://www.gorgias.com/) — `付费` 专为电商做的客服工单台，和 Shopify 深度集成、能直接在对话里改订单退款，店大了很值。
+- [Siena AI](https://www.siena.cx/) — `付费` 面向 DTC / 电商品牌的 AI 客服代理，能处理订单、退换、推荐和社媒对话，适合客服量上来后的品牌。
 - [Intercom（Fin）](https://www.intercom.com/) — `付费` AI 客服里效果最出色的，Fin 解决率高，但价格也顶，SaaS/品牌站才扛得住。
 - [Zendesk](https://www.zendesk.com/) — `付费` 企业级大客服系统，AI 能力齐，体量小用不上、也嫌重。
 - [Manychat](https://manychat.com/) — `Freemium` Messenger / Instagram / WhatsApp 自动化，营销+客服一体，TikTok 引流私域很好用。
@@ -125,6 +129,7 @@
 
 - [DeepL](https://www.deepl.com/) — `Freemium` 翻译质量公认第一梯队，欧洲语种尤其强，做正式文案、邮件先过它一遍再人工校。
 - [Weglot](https://www.weglot.com/) — `付费` 网站一键多语言，自动翻译 + 多语言 SEO（独立子目录），按字数计费、量大会贵，但省工程量。
+- [Shopify Translate & Adapt](https://apps.shopify.com/translate-and-adapt) — `免费` Shopify 官方翻译应用，可免费自动翻译 2 种语言，还能按市场微调文案，新 Shopify 店先装它试水。
 - [ConveyThis](https://www.conveythis.com/) — `Freemium` 和 Weglot 同类、价格更亲民的网站翻译方案，预算紧可以对比。
 - [Lokalise](https://lokalise.com/) — `付费` 团队本地化协作平台，偏 App/软件/SaaS 的字符串管理，独立站卖家用不太上。
 - [Crowdin](https://crowdin.com/) — `Freemium` 本地化项目管理，开发向，开源项目有免费额度。
@@ -157,6 +162,7 @@
 - [10Web](https://10web.io/ai-website-builder/) — `付费` AI 生成 WordPress 站并自带托管，想要 WP 生态又怕折腾的可以看。
 - [Relume](https://www.relume.io/) — `Freemium` AI 出站点地图/线框图，设计师和搭站的前置神器，省掉「从零想结构」的时间。
 - [Builder.io](https://www.builder.io/) — `Freemium` 可视化 + AI，能接你现有代码库，偏有技术团队的玩法。
+- [Lovable](https://lovable.dev/) — `Freemium` 用聊天生成应用 / 网站原型，适合快速做工具页、活动页或后台 demo；正式主站仍要看代码质量和可迁移性。
 
 > **⚠️ 我对 AI 建站的真心话（踩过坑）：**
 > AI 建站工具搭个 demo、做个活动落地页，真香。但你要拿它当**长期吃饭的主站**，问题会慢慢冒出来——手机端加载慢、SEO 结构被平台框死、想加个定制功能加不了、数据和代码都锁在人家平台上、想搬家搬不走。
