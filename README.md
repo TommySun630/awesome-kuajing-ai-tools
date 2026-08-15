@@ -94,6 +94,7 @@
 - [Pebblely](https://pebblely.com/) — `Freemium` 一键给产品配生活场景背景，比 Flair 更傻瓜，新手友好。
 - [Photoroom](https://www.photoroom.com/) — `Freemium` 抠图、批量换背景、做产品白底/场景图，手机就能干，免费额度够小卖家用。
 - [Canva](https://www.canva.com/) — `Freemium` 全能设计 + 内置 AI，做主图、A+、社媒图，团队协作首选。
+- [Eimu](https://eimu.art) — `免费` 在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，无需中转站、无需申请 API Key，生成完直接下载。
 
 **视频 / 口播 / 短剧**
 
