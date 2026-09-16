@@ -104,6 +104,7 @@
 - [Creatify](https://creatify.ai/) — `付费` 专做电商 AI 广告视频，丢产品链接自动出多版 UGC 风素材，批量测款效率高。
 - [AdCreative.ai](https://www.adcreative.ai/) — `付费` 批量生成广告图、广告文案和产品视频，还能给素材打分，适合 Meta / Google 投流前快速出变体。
 - [Arcads](https://www.arcads.ai/) — `付费` 主打「真人 UGC 口播感」的 AI 演员广告，欧美投流卖家用得多。
+- [Orkas](https://orkas.ai/agents/video-studio/?source=gh_tommy) — `免费` 开源、本地优先的 AI 团队桌面应用，由 Commander 协调 VideoStudio 将商品素材制成视频，适合卖家制作内容；模型服务可能另收费。
 - [ElevenLabs](https://elevenlabs.io/) — `Freemium` AI 配音 / 多语言 voiceover 很强，做海外口播、产品讲解和本地化视频时省录音成本。
 - [Topview AI](https://www.topview.ai/) — `Freemium` 产品链接一键转带货短视频，和 Creatify 是同类，可以对比着白嫖试。
 
