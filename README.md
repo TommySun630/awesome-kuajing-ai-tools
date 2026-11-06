@@ -63,6 +63,7 @@
 - [卖家精灵 SellerSprite](https://www.sellersprite.com/) — `Freemium` 中文界面、对国内卖家最友好，性价比明显高于上面两个。亚马逊为主，TikTok/独立站维度弱一些。
 - [Kalodata](https://www.kalodata.com/) — `Freemium` 专做 **TikTok Shop** 数据：爆品榜、带货达人、直播间数据。做 TikTok 电商基本绕不开它。
 - [EchoTik](https://echotik.live/) — `Freemium` 同样是 TikTok 选品/达人数据，有免费额度可以先白嫖试水，和 Kalodata 可以对照着看。
+- [TKMetrics](https://tkmetrics.com/) — `Freemium` TikTok 账号数据：粉丝数、互动率、视频表现，联系达人前先筛一遍。
 - [VOC AI（Shulex）](https://www.voc.ai/) — `Freemium` 我私心最推的一个：把竞品成百上千条 review 用 AI 拆成「好评点/差评点/未满足需求」，**选品做差异化、改产品全靠它**。
 - [Perplexity](https://www.perplexity.ai/) — `Freemium` AI 搜索 / research 工具，适合快速查品类趋势、竞品资料和海外媒体观点；结论要点开来源核对，别直接当真理。
 - [Exploding Topics](https://explodingtopics.com/) — `Freemium` 看早期趋势词、还没火起来的蓝海赛道。英文，适合做品牌站找方向。
